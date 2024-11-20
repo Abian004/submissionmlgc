@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "submissionmlgc-abianpratama",
+  "private_key_id": "646d932cf93adb8a35b19726e2c57118654f205d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDqsP3xIzfdmoWU\nnDSd7R9wuR1rSMR75cDasouITsUXviSgiYuB9QIbMAJocIG9prkTa1meTRAi0ikm\n6KNB5laSraRyqLPXo8/7+wULM3bgGm//p4F4tVAWeGFlh+zYkwlShjXswp2t8OVp\nIVOedZgaWL16rFbhBmT0YbJHdMx7g8KcQlB9yhY5gSQv1H4wBCgpxpwW4R+RwHG5\nqCjvYwWPSwuehQ03WyXvqWmsl7hy0uLF8COnYdpQOQ8PFAFR4fTBT+g3MBXisXW6\nnKsucepWzAcPvC6FiokMRiv1KpEBgnMH1W6Y4M8t+NDpKl4tv13cbbZgA7ngQs1V\nq+i2hvVLAgMBAAECggEAFU29r27v+ki1iXjoedF1gij7l6qCU3DWocOFUPk9gNs8\nveneZQyVhVxFS6+yx0FkGXQsLWd3aIHFRIfnkerTvvrOK65OrOtszMXLfmnMh6k+\ns2lEIm3q+C8zQCEnib1HIluWd4hvAcQVPwbMbVzlUrbtdD5CoKiQ73IS2dOrYCa4\nNL4dIOBeyP/12EUFfU2e+RYLt9je36z+01HJnaV363Eo5ruKt/f/1Mv/u9k3XJIX\nUer52UK4Ywr/dE9PB1vf9JLTIOhaz+1hTZquDoiAx5N+6gTq6fw7LQbUVlhRicle\nOZTocr5g5uS+rK0r8mm9t9oCiFR8mw+DXMWfBdCQ6QKBgQD9Hjf2UfV9r5Dr1aA5\nn8VwBv3KhGcIAMjCduuVTcaspuXELnpVGFLnlL3IRIrGEj1aF89wz6QO1PYI81tJ\nihl8ecFNc1gh53+96sLvBzjLmlg6IeEztJHG5oS4WE2ppy8Ac5dhJLZb3OPgVMHI\nf+3HV4flim3TS16UJYHeujNG9wKBgQDtXRBW26696wfO/8F3tw41t5b+2M9D6MJj\njZYxzMTF/7c9t4rvvX1i8QZfs9U18ofasxtUYFhL5oZvLiZOlJQg/Yz7bWnjW8s0\nbz5Q/kZyWELO+PcKLty8weCMZFVFPr8HNx1Nt1jPyB/ufvwovRvQMzvdNolsj6Ls\nyxTrPeILTQKBgACz8sfWVm4w7KAbCcTfMrcq7c2ALKETD3uqxOC3RJP6Kq0uy9ws\nox5NhXFm71O5fT4gzsyrZvM7mCtSMbC0l3mHBQhoB5iggfRPEJeFV50JIrGWon94\nQudggIHajOypsDG6IHN+nJsItAFNevRJlql1DsWOatupW+vhZsjtj3LlAoGAeSv5\nG14qZmmFIvcNHMAmUOXX/2FO7av1ED1HX0TZbvqL4MXB94EUcV35kwGK5m9ZSxwD\n558HdDfKiRdWFudidzT4s6G3XImPwsTHWzFzZQwJjv8pndkudm3C4+iUXzUY7+YC\n35mpjOjs5COPNnzTpgWBmfwtS25IDfneQ/jjXEECgYABhW3LWE1PFZwNyVvaGCvk\nuRAcqylga//5vUCza9z9E8Q3BGAUePant44ACs99SeluI8ubk3Y5jaOjrXrxqKP5\nEJCh8fHD59DF2loyiQv0tBXSLFsf7rvmXpR0GQAneeaYM52kENcBkhQrBQddxWtA\nYJQYDdXChXvwtP1zcRuGEA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "submission-mlgc-firestore@submissionmlgc-abianpratama.iam.gserviceaccount.com",
+  "client_id": "111340319547127266236",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/submission-mlgc-firestore%40submissionmlgc-abianpratama.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
